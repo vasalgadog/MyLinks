@@ -43,6 +43,19 @@ body {
     width: 100%;
     text-align: center;
     text-decoration: none;
+    align-items: center;
+}
+
+#cl-flag{
+    display: inline-block;
+    margin: 0;
+    margin-left: .1rem;
+    vertical-align: middle;
+}
+
+#cl-flag img{
+    width: 22px;
+    height: 22px;
 }
 
 #links {
